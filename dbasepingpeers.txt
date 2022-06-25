@@ -1,4 +1,3 @@
 https://cdn.jsdelivr.net/gh/blwtxc/dappcdn/dbaseping
 https://raw.githubusercontent.com/blwtxc/dappcdn/main/dbaseping
 https://www.dropbox.com/s/ehkzpy2y3o7urkg/ping?dl=1
-https://olivermaklott.com/cdn/dchattr/ping
