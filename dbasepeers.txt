@@ -1,1 +1,1 @@
-ws://localhost:4944/ws
+http://localhost:4944/ws
